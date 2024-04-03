@@ -1,6 +1,6 @@
 import React from 'react';
 import CopyClipBoard2 from './Component/CopyText';
-import './App.css'
+import './App.css'; 
 
 const App = () => {
     return (
